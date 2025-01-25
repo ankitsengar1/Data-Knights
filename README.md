@@ -15,7 +15,11 @@ and behavior patterns. These insights guide stakeholders in making informed deci
 # 🛠️ Tech Stack
 
 Python
+
+
 SQL (MySQL)
+
+
 Power BI
 
 # 🔍📈 Key Features
